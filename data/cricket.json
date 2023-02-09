@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874c2"
+  },
+  "playerId": "06",
+  "pName": "Wasim AKram",
+  "pType": "Bowl",
+  "pBatHand": "Left",
+  "matches": "460",
+  "inns": "532",
+  "runs": "6615",
+  "wkts": "916",
+  "team": "PAK",
+  "IPL": [],
+  "image": "https://cdn.wisden.com/wp-content/uploads/2020/06/GettyImages-142397625-1.jpg",
+  "bowl_type": "pace",
+  "rating": [],
+  "bg": "https://static.vecteezy.com/system/resources/previews/007/098/518/original/pakistan-realistic-waving-flag-illustration-national-country-background-symbol-independence-day-free-vector.jpg",
+  "video": "https://www.youtube.com/watch?v=Rqub_B3NMCk#t=0m5s"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874c3"
+  },
+  "playerId": "07",
+  "pName": "Brendan McCullum",
+  "pType": "WK-Bat",
+  "pBatHand": "Right",
+  "matches": "432",
+  "inns": "474",
+  "runs": "14676",
+  "wkts": "1",
+  "team": "NZ",
+  "IPL": [
+    "KKR",
+    "KTK",
+    "CSK",
+    "GL",
+    "RCB"
+  ],
+  "image": "https://caughtatpoint.com/wp-content/uploads/2018/09/A-tribute-to-Brendon-McCullum.jpg",
+  "bowl_type": "pace",
+  "rating": [],
+  "bg": "https://wallpapercave.com/wp/wp3279507.png",
+  "video": "https://www.youtube.com/watch?v=rSYjN9a4Y-Y#t=0m9s"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874c4"
+  },
+  "playerId": "08",
+  "pName": "Kumar Sangakkara",
+  "pType": "WK-Bat",
+  "pBatHand": "Left",
+  "matches": "594",
+  "inns": "666",
+  "runs": "28016",
+  "wkts": "0",
+  "team": "SL",
+  "IPL": [
+    "KXIP",
+    "SRH"
+  ],
+  "image": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/10/27/7fb61d32-223f-4311-8786-06de961f6ec1/GettyImages-465816412.jpg",
+  "bowl_type": "none",
+  "rating": [],
+  "bg": "https://wallpaperaccess.com/full/2714479.png",
+  "video": "https://www.youtube.com/watch?v=4BngeYRsjI0#t=0m17s"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874bd"
+  },
+  "playerId": "01",
+  "pName": "Mahindra Singh Dhoni",
+  "pType": "WK-Bat",
+  "pBatHand": "Right",
+  "matches": "538",
+  "inns": "526",
+  "runs": "17266",
+  "wkts": "1",
+  "team": "IND",
+  "IPL": [
+    "CSK",
+    "RPSG"
+  ],
+  "image": "https://images.hindustantimes.com/img/2022/07/06/1600x900/dhoni-2016-getty_1654515327472_1657137509048.jpg",
+  "bowl_type": "pace",
+  "rating": [],
+  "bg": "https://wallpapercave.com/wp/wp3400422.jpg",
+  "video": "https://www.youtube.com/watch?v=R0alThHNb0Y"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874bf"
+  },
+  "playerId": "03",
+  "pName": "Sachin Tendulkar",
+  "pType": "All-Rounder",
+  "pBatHand": "Right",
+  "matches": "664",
+  "inns": "782",
+  "runs": "34357",
+  "wkts": "201",
+  "team": "IND",
+  "IPL": [
+    "MI"
+  ],
+  "image": "https://images.news18.com/ibnlive/uploads/2021/04/sachin.jpg",
+  "bowl_type": "pace/spin",
+  "rating": [],
+  "bg": "https://wallpapercave.com/wp/wp3400422.jpg",
+  "video": "https://www.youtube.com/watch?v=vUQPLAlU0Sw"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874c0"
+  },
+  "playerId": "04",
+  "pName": "Shane Warne",
+  "pType": "Bowl",
+  "pBatHand": "Right",
+  "matches": "339",
+  "inns": "464",
+  "runs": "4172",
+  "wkts": "1001",
+  "team": "AUS",
+  "IPL": [
+    "RR"
+  ],
+  "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/F4HX2X5WS5LLNJ4DMKJWOHXLPQ.jpg",
+  "bowl_type": "leg-spin",
+  "rating": [],
+  "bg": "https://cdn.wallpapersafari.com/95/25/iwKv50.jpg",
+  "video": "https://www.youtube.com/watch?v=s3V-sYH0Sks#t=0m38s"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874c1"
+  },
+  "playerId": "05",
+  "pName": "AB de Villiers",
+  "pType": "WK-Bat",
+  "pBatHand": "Right",
+  "matches": "420",
+  "inns": "484",
+  "runs": "20014",
+  "wkts": "9",
+  "team": "SA",
+  "IPL": [
+    "DC",
+    "RCB"
+  ],
+  "image": "https://www.royalchallengers.com/PRRCB01/public/styles/1061x767_landscape/public/2022-12/ezgif.com-gif-maker%20-%202022-12-28T165305.313.jpg?itok=b0pNTJ2P",
+  "bowl_type": "pace",
+  "rating": [],
+  "bg": "https://wallpaperaccess.com/full/1573115.jpg",
+  "video": "https://www.youtube.com/watch?v=HK6B2da3DPA#t=0m6s"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874be"
+  },
+  "playerId": "02",
+  "pName": "Kevin Pietersen",
+  "pType": "Bat",
+  "pBatHand": "Right",
+  "matches": "277",
+  "inns": "342",
+  "runs": "13797",
+  "wkts": "18",
+  "team": "ENG",
+  "IPL": [
+    "RCB",
+    "DC",
+    "RPSG"
+  ],
+  "image": "https://e0.365dm.com/19/07/2048x1152/skysports-kevin-pietersen-england_4732038.jpg",
+  "bowl_type": "off-spin",
+  "rating": [],
+  "bg": "https://img.freepik.com/premium-vector/flag-england-background-template_19426-636.jpg?w=2000",
+  "video": "https://www.youtube.com/watch?v=03_8mqPCmzw#t=0m11s"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874c5"
+  },
+  "playerId": "09",
+  "pName": "Chris Gayle",
+  "pType": "All-Rounder",
+  "pBatHand": "Left",
+  "matches": "483",
+  "inns": "551",
+  "runs": "19593",
+  "wkts": "260",
+  "team": "WI",
+  "IPL": [
+    "KKR",
+    "RCB",
+    "KXIP"
+  ],
+  "image": "https://www.mpl.live/blog/wp-content/uploads/2021/04/CHRIS-GAYLE.png",
+  "bowl_type": "off-spin",
+  "rating": [],
+  "bg": "https://yt3.googleusercontent.com/ytc/AL5GRJWbyls7zYbvTAsuGvcZg-f2eHgx9Y0bDZLu_qFD=s900-c-k-c0x00ffffff-no-rj",
+  "video": "https://www.youtube.com/watch?v=-tYEAFVglDo"
+},{
+  "_id": {
+    "$oid": "63e12848b8722877bdc874c6"
+  },
+  "playerId": "10",
+  "pName": "Suresh Raine",
+  "pType": "All-Rounder",
+  "pBatHand": "Left",
+  "matches": "322",
+  "inns": "291",
+  "runs": "7988",
+  "wkts": "62",
+  "team": "IND",
+  "IPL": [
+    "CSK",
+    "GL"
+  ],
+  "image": "https://images.news18.com/ibnlive/uploads/2022/09/suresh-raina.jpg",
+  "bowl_type": "off-spin",
+  "rating": [],
+  "bg": "https://wallpapercave.com/wp/wp3400422.jpg",
+  "video": "https://www.youtube.com/watch?v=MF9bHr7vn2s"
+}]
